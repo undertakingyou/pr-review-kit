@@ -1,7 +1,7 @@
-### Code Quality & Readability - Comments & Documentation
+### 🧠 Code Quality & Readability - Comments & Documentation
 
 **Details**
-Inclusion of ticket numbers within the comment does not add anything to the comment. It also assumes that the ticket number will always be available, and that in order to understand the full context of this you must look up the ticket number.
+Ticket numbers in comments tend to go stale and require the reader to look up the ticket to get the full context. The comment itself is more useful when it captures the why directly.
 
 **Suggestion (optional)**
 Remove ticket numbers from the comment
